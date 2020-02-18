@@ -1,0 +1,10 @@
+{
+  "name": "news-bot",
+  "version": "1.0.0",
+  "description": "Amplifies news announcements.",
+  "main": "bot.js",
+  "author": "Emilia Decaudin",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
